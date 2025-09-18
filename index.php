@@ -1,3 +1,3 @@
 <?php
-    echo "Hoy Gana Saprissa";
+    echo "Hoy Pierde Saprissa";
 ?>
